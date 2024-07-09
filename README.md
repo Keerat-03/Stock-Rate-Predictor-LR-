@@ -15,6 +15,6 @@ Train the model.
 Get accurate predictions for closing prices.
 Feel free to contribute, suggest improvements, or use it in your projects! Let's learn and grow together. 🌱
 
-It takes the input of a two dimensional array that consists of a matrix(4xn).
+It takes the input of a two dimensional array that consists of a matrix(nx4).
 where the 4 coloumns are: Open, High, Low, CLose and Volume.
 n is the number of chosen days
